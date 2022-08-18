@@ -10,6 +10,17 @@
     "population": "5430000", 
     "population_proper": "5430000"
   }, 
+   {
+    "city": "Meiktila", 
+    "lat": " 20.8734", 
+    "lng": "95.8434", 
+    "country": "Myanmar", 
+    "iso2": "MM", 
+    "admin_name": "Meiktila", 
+    "capital": "primary", 
+    "population": "177442", 
+    "population_proper": "177442"
+  }, 
   {
     "city": "Mandalay", 
     "lat": "21.9769", 
